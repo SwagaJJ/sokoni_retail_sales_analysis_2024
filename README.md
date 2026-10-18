@@ -82,6 +82,4 @@ This project can help answer questions such as:
 
 This project is intended as a data analysis and business intelligence exercise for understanding retail performance and supporting decision-making based on transactional data.
 
-## License
 
-This project does not include a specified license. If you plan to share or publish the repository publicly, consider adding a license file appropriate for your use case.
